@@ -8,8 +8,8 @@
 Objetivo desse NLW foi a construção da plataforma Happy. <br>
 Um site para cadastrar e mostrar num mapa local orfanatos da região.<br>
 Acompanhei a construção Front End da maratona.<br>
-Confira o resultado clique na figura abaixo.
+Confira o resultado, clique no botão abaixo.
 <br>
 <a href="https://riquecelo.github.io/nlw-3/index">
-<img src="https://github.com/Riquecelo/nlw-3/blob/main/public/images/logo-icon.png" height='' width='' >
+<img src="https://img.shields.io/badge/acessar-Happy%F0%9F%99%82-yellow" height='' width='' >
 </a>
